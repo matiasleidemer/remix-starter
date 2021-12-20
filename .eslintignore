@@ -1,0 +1,5 @@
+node_modules/
+public/
+api/build/
+*.d.ts
+remix.config.js
